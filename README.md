@@ -1,2 +1,2 @@
-# Budget-Management-Application Azim T.A
+# Budget-Management-Application  By Azim T.A
 Budget Management Application 
